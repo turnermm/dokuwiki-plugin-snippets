@@ -5,7 +5,7 @@
 $lang['js']['preview'] = 'preview';
 $lang['js']['insert']  = 'insert';
 $lang['gb_snippets']   = 'Insert Templates';
-$lang['popup_title']   = 'Snippets (Template Manager)';
+$lang['popup_title']   = 'Snippets Manager';
 $lang['js']['check_for_updates'] = 'Make selection updatable';
 $lang['refresh_title'] = 'Remove unused snippet entries and page ids from database';
 $lang['refresh'] = 'Refresh snippets database';
